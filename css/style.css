@@ -11,3 +11,16 @@ body {
     align-items: flex-start;
     flex: 1;
 }
+
+.header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    background-color: #321F28;
+    color: #E79E4F;
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+}

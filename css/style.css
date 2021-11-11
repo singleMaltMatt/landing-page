@@ -6,6 +6,95 @@ html {
 }
 
 body {
+  display: flex;
+  flex-flow: column nowrap;
+  flex: 1; 
+  /* top three are important for the footer to be pushed down. dont change. */
+  width: 100%;
+  margin: 0 auto;
+}
+
+.top-section {
+  background-color: #321F28;
+  color: #E79E4F;
+  
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+
+ul {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-right: 100px;
+}
+
+.intro {
+  margin: 100px;
+  display: flex;
+  /* top 2 works fine? save for the img that needs to be styled */
+  align-items: flex-start;
+}
+
+.intro .intro-text {
+  flex: 1;
+}
+
+.img1 {
+  border: 3px solid #734046;
+  border-radius: 1.5px;
+}
+
+button {
+  background-color: #A05344;
+  padding: 8px;
+  border-radius: 3px;
+  border-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -15,7 +104,9 @@ body {
     flex: 1;
 }
 
-
+.top-section {
+  background-color: #321F28;
+}
 
 .header {
     width: 100%;
@@ -35,4 +126,4 @@ ul {
     list-style: none;
     text-decoration: none;
     gap: 20px;
-}
+} */

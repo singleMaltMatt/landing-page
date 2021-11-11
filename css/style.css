@@ -21,7 +21,7 @@ body {
 /* this is the shop name font styler */
 .page-title {
   font-family: 'Lobster Two', cursive;
-  font-size: 42px;
+  font-size: 30px;
   margin: 0;
 }
 
@@ -64,11 +64,21 @@ ul {
 
 button {
   background-color: #A05344;
-  padding: 8px;
+  padding: 12px;
   border-radius: 3px;
   border-style: none;
+  font-size: 15px;
+  font-weight: 600;
 }
 
+h1 {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.intro-text p {
+  font-size: 20px;
+}
 
 /* |STYLING FOR MID SECTION OF LANDING PAGE */
 

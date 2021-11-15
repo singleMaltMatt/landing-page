@@ -101,7 +101,24 @@ h1 {
   align-items: center;
   gap: 40px;
   margin: 50px 0px;
+  font-weight: 500;
 }
+
+.section-3 {
+  background-color: #644e58;
+  font-size: 24px;
+  padding: 0px 0px 50px 0px;
+  text-align: center;
+}
+
+#quote-author {
+  text-align: right;
+  font-weight: bold;
+  margin-right: auto;
+}
+
+
+
 
 
 

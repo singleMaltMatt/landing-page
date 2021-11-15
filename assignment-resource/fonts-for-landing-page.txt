@@ -1,0 +1,28 @@
+FONTS FOR PAGE
+
+LINK: https://fonts.google.com/specimen/Lobster+Two
+	for head
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet">
+
+	for stylesheet
+font-family: 'Lobster Two', cursive;
+
+
+LINK: https://fonts.google.com/specimen/Gothic+A1
+	for head
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap" rel="stylesheet">
+
+	for stylesheet
+font-family: 'Gothic A1', sans-serif;
+
+
+
+<<<USE FOR HEAD INSTEAD>>>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gothic+A1&family=Lobster+Two&display=swap" rel="stylesheet">

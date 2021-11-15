@@ -85,9 +85,35 @@ h1 {
 .mid-section {
   background-color: #734046;
   color: #E79E4F;
+  text-align: center;
 }
 
-.img2, .img3, .img4, .img5 {
+.product-display img {
+  width: 250px;
+  height: 350px;
+  border: 3px solid #321F28;
+  border-radius: 1.5px;
+}
+
+.product-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 50px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .img2, .img3, .img4, .img5 {
   width: 350px;
   height: 350px;
   border: 3px solid #321F28;
@@ -101,8 +127,8 @@ h1 {
 
 .product-display [class*="img"] {
   flex-wrap: wrap;
-  max-width: 300px;
-}
+  max-width: 350px;
+} */
 
 /* trying to figure out how to get the text under the images.
    so far i think the "wrap" and "max-width" should apply to the text too? */

@@ -1,6 +1,7 @@
+IMAGE CREDIT:
+
 IMAGES USED ON WEBISTE FOUND AT [www.pexels.com]
 
-IMAGE CREDIT:
 
 IMAGE 1:	WHITE SKULL TABLE DECOR
 LINK:		https://www.pexels.com/photo/white-skull-table-decor-417049/

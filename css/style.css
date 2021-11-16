@@ -104,6 +104,8 @@ h1 {
   font-weight: 500;
 }
 
+/* |STYLING FOR SECTION 3| */
+
 .section-3 {
   background-color: #644e58;
   text-align: center;
@@ -122,31 +124,58 @@ h1 {
   font-weight: bold;
 }
 
+
+/* |STYLING FOR SECTION 4| */
+
 .section-4 {
   background-color: #734046;
   border-radius: 5px;
-  display: flex;
-  /* flex-flow: row wrap;
-  justify-content: flex-start;
-  align-content: flex-start; */
-  /* justify-content: flex-start;
-  align-content: flex-start; */
   margin: 50px auto;
   padding: 30px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-/* .sec-4-acc {
-  flex: 0
-} */
+.sec-4-acc {
+  flex: 1;
+}
 
-/* added the class above. but failing
-need to get the button on the right
-and the text on the left */
+.sec-4-butt {
+  flex: 0;
+}
+
+/* |STYLING FOR FOOTER| */
 
 .footer {
   background-color: #321F28;
   flex: 0
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

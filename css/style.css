@@ -149,7 +149,15 @@ h1 {
 
 .footer {
   background-color: #321F28;
+  text-align: center;
+  color: #E79E4F;
+  font-size: 15px;
   flex: 0
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
 }
 
 

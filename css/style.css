@@ -129,6 +129,7 @@ h1 {
 
 .section-4 {
   background-color: #734046;
+  color: #E79E4F;
   border-radius: 5px;
   margin: 50px auto;
   padding: 30px 50px;
@@ -143,7 +144,13 @@ h1 {
 
 .sec-4-butt {
   flex: 0;
+  border: 2px solid #E79E4F;
+  border-radius: 2.5px;
 }
+
+/* .sec-4-butt button {
+  border-color: #E79E4F;
+} */
 
 /* |STYLING FOR FOOTER| */
 
